@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 def main(msg):
+    //whatthefuck
     print(msg)
 
 main("HELLO PEOPLE")
